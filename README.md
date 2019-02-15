@@ -2,8 +2,7 @@
 
 politico is an application that allows users to vote for their preferred candidates, by navigating to the 
 Cast vote page and selecting the prefered candidate then hit submit button.
-
-https://wensjuma.github.io/Politico/UI/
+a link to the hosted github pages UI project https://wensjuma.github.io/Politico/UI/
 
 **How to set up**
 
